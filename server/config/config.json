@@ -1,0 +1,22 @@
+{
+    "development": {
+        "API_KEY": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "API_URL": "",
+        "ACCOUNT_SID": "XXXXXXXXXXXXXXXXXXXXXXXX",
+        "AUTH_TOKEN": "XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "SALT_ROUND": 8,
+        "SECRET_KEY": "employeeproject",
+        "PORT": 5000,
+        "MONGODB_URI": "mongodb://localhost:27017/vue_node"
+    },
+    "production": {
+        "API_KEY": "XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "API_URL": "",
+        "ACCOUNT_SID": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "AUTH_TOKEN": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "SALT_ROUND": 8,
+        "SECRET_KEY": "employeeproject",
+        "PORT": 8080,
+        "MONGODB_URI": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    }
+}
